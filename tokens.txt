@@ -1,0 +1,16 @@
+API tokens for user in this project
+
+Andrzej:
+
+"auth_token": "51907bbcb7d466f35b45260cb7731ac39e98dd5c"
+
+Michał:
+
+"auth_token": "fd58608ad937574b7c83e9525f3f61b2062dca8a"
+
+to get token you need to get to this endpoint http://127.0.0.1:8000/api/auth/token/login/ 
+
+with body such as {"username": "admin","password": "top_secret"}
+
+
+DEV_EUI for creating testing device: A8610A32372F6C08
